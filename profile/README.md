@@ -36,7 +36,7 @@
 重放
 ```
 
-#### PortSwigger
+#### PortSwigger（靶场）
 
 顺序：
 
@@ -56,6 +56,28 @@ Broken Access Control
 JWT
 API权限
 ```
+
+完整顺序
+
+```text
+Access Control
+↓
+Authentication
+↓
+API Testing
+↓
+GraphQL
+↓
+OAuth
+↓
+Hacktivity
+↓
+Recon
+↓
+BruteCat
+```
+
+
 
 ------
 
