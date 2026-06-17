@@ -93,6 +93,8 @@ BruteCat
 
 ### OAuth2
 
+[Oauth2.0学习笔记](https://github.com/BytequestorNotes/xhj-src/tree/main/oauth2.0)
+
 理解：
 
 ```text
